@@ -1,56 +1,6 @@
 {
   "planData": [
     {
-      "text": "teste",
-      "color": "#162540",
-      "status": ""
-    },
-    {
-      "text": "teste",
-      "color": "#162540",
-      "status": ""
-    },
-    {
-      "text": "",
-      "color": "#162540",
-      "status": ""
-    },
-    {
-      "text": "",
-      "color": "#162540",
-      "status": ""
-    },
-    {
-      "text": "",
-      "color": "#162540",
-      "status": ""
-    },
-    {
-      "text": "",
-      "color": "#162540",
-      "status": ""
-    },
-    {
-      "text": "",
-      "color": "#162540",
-      "status": ""
-    },
-    {
-      "text": "",
-      "color": "#162540",
-      "status": ""
-    },
-    {
-      "text": "",
-      "color": "#162540",
-      "status": ""
-    },
-    {
-      "text": "",
-      "color": "#162540",
-      "status": ""
-    },
-    {
       "text": "",
       "color": "#162540",
       "status": ""
@@ -226,12 +176,15 @@
     "verse": "Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu.",
     "ref": "(Eclesiastes 3:1)",
     "warn": "NÃO SEJA INDECISO. SIGA O PLANO E USE SEU TEMPO COM SABEDORIA.",
-    "days": "40",
+    "days": "30",
     "ac1": "#ff00ff",
     "ac2": "#0000ff",
     "ac3": "#f59e0b",
     "url": "",
     "ghRepo": "chengcheng-gm/planner-gm-",
     "ghPath": "config.json"
-  }
+  },
+  "n_geral": "",
+  "n_metas": "",
+  "n_horarios": ""
 }
