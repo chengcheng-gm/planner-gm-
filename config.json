@@ -1,9 +1,9 @@
 {
   "planData": [
     {
-      "text": "teste",
+      "text": "",
       "color": "#162540",
-      "status": "🎮 Jogando"
+      "status": ""
     },
     {
       "text": "",
@@ -180,6 +180,8 @@
     "ac1": "#ff00ff",
     "ac2": "#0000ff",
     "ac3": "#f59e0b",
-    "url": ""
+    "url": "",
+    "ghRepo": "chengcheng-gm/planner-gm-",
+    "ghPath": "config.json"
   }
 }
