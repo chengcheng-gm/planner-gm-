@@ -1,1 +1,185 @@
-
+{
+  "planData": [
+    {
+      "text": "teste",
+      "color": "#162540",
+      "status": "🎮 Jogando"
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    },
+    {
+      "text": "",
+      "color": "#162540",
+      "status": ""
+    }
+  ],
+  "finList": [
+    {
+      "name": "The Last of Us Part II",
+      "date": "15/10/2023",
+      "stars": 5,
+      "comment": "Narrativa impactante, gameplay polido."
+    },
+    {
+      "name": "Hades",
+      "date": "22/11/2023",
+      "stars": 5,
+      "comment": "Viciante, rogue-like perfeito."
+    },
+    {
+      "name": "Ghost of Tsushima",
+      "date": "05/12/2023",
+      "stars": 4,
+      "comment": "Mundo aberto lindo, combate satisfatório."
+    }
+  ],
+  "appCfg": {
+    "name": "Planner Gamer Consciente",
+    "verse": "Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu.",
+    "ref": "(Eclesiastes 3:1)",
+    "warn": "NÃO SEJA INDECISO. SIGA O PLANO E USE SEU TEMPO COM SABEDORIA.",
+    "days": "30",
+    "ac1": "#ff00ff",
+    "ac2": "#0000ff",
+    "ac3": "#f59e0b",
+    "url": ""
+  }
+}
