@@ -1,74 +1,74 @@
 {
   "planData": [
     {
-      "text": "X1\nX2",
+      "text": "Stellar Blade\nResident Evil 4\nData:",
       "color": "#162540",
       "status": "🎮 Jogando"
     },
     {
-      "text": "",
+      "text": "Lies of P\nLords of the fallen\nData:",
       "color": "#162540",
-      "status": ""
+      "status": "🎮 Jogando"
     },
     {
-      "text": "",
+      "text": "A ascenção do ronin\nNioh Collection (nioh 1)\nData:",
       "color": "#162540",
-      "status": ""
+      "status": "🎮 Jogando"
     },
     {
-      "text": "",
+      "text": "Metal gear solid Snake eater\nDragons dogma II\nData:",
       "color": "#162540",
-      "status": ""
+      "status": "🎮 Jogando"
     },
     {
-      "text": "",
+      "text": "The last of us I\nThe last of us II\nData:",
       "color": "#162540",
-      "status": ""
+      "status": "🎮 Jogando"
     },
     {
-      "text": "",
+      "text": "Elden ring\nElden Ring nightreign\nData:",
       "color": "#162540",
-      "status": ""
+      "status": "🎮 Jogando"
     },
     {
-      "text": "",
+      "text": "Silent hill f\nUntil dawn\nData:",
       "color": "#162540",
-      "status": ""
+      "status": "🎮 Jogando"
     },
     {
-      "text": "",
+      "text": "Spider man ps4\nSpider man Miles Morales\nData:",
       "color": "#162540",
-      "status": ""
+      "status": "🎮 Jogando"
     },
     {
-      "text": "",
+      "text": "Demon's souls\nStar wars Outlaws\nData:",
       "color": "#162540",
-      "status": ""
+      "status": "🎮 Jogando"
     },
     {
-      "text": "",
+      "text": "Horizon forbidden west\nDying light 2 stay human\nData:",
       "color": "#162540",
-      "status": ""
+      "status": "🎮 Jogando"
     },
     {
-      "text": "",
+      "text": "Mortal kombat I\nA plague tale requiem\nData:",
       "color": "#162540",
-      "status": ""
+      "status": "🎮 Jogando"
     },
     {
-      "text": "",
+      "text": "Returnal\nWild hearts\nData",
       "color": "#162540",
-      "status": ""
+      "status": "🎮 Jogando"
     },
     {
-      "text": "",
+      "text": "godfall\noutro jogo qualquer\nData:",
       "color": "#162540",
-      "status": ""
+      "status": "🎮 Jogando"
     },
     {
-      "text": "",
+      "text": "Jogo digital a partir daqui: 1:\n2:\nData",
       "color": "#162540",
-      "status": ""
+      "status": "📝 Agendado"
     },
     {
       "text": "",
@@ -476,7 +476,7 @@
     "verse": "Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu.",
     "ref": "(Eclesiastes 3:1)",
     "warn": "NÃO SEJA INDECISO. SIGA O PLANO E USE SEU TEMPO COM SABEDORIA.",
-    "days": "90",
+    "days": "30",
     "ac1": "#38bdf8",
     "ac2": "#22c55e",
     "ac3": "#f59e0b",
@@ -484,7 +484,7 @@
     "ghRepo": "chengcheng-gm/planner-gm-",
     "ghPath": "config.json"
   },
-  "n_geral": "Iniciado em 03.05.2026",
+  "n_geral": "",
   "n_metas": "",
   "n_horarios": ""
 }
